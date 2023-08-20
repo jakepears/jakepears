@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakepears&label=Profile%20views&color=0e75b6&style=flat" alt="jakepears" /> </p>
 
-- 🔭 To check out more of my work go to my portfolio site! -> [https://jpearson.vercel.app/](https://jpearson.vercel.app/)
+- 🔭 To check out more of my work go to my portfolio site! -> [jpearson.art](https://jpearson.art)
 
 - 🌱 I’m currently learning **blender - redshift**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **next.js, vue, and gsap**
 
-- 📫 Send me an email -> **jpearsonbusiness@gmail.com**
+- 📫 Send me an email -> **hello@jpearson.art**
 
 - ⚡ Fun fact **I think I am funny.**
 
