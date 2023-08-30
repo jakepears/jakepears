@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jake Pearson</h1>
 <h3 align="center">Software Engineer and Motion Graphics Artist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakepears&label=Profile%20views&color=0e75b6&style=flat" alt="jakepears" /> </p>
-
 - 🔭 To check out more of my work go to my portfolio site! -> [jpearson.art](https://jpearson.art)
 
 - 🌱 I’m currently learning **blender - redshift**
