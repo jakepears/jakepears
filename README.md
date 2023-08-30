@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakepears&hide=stars,commits,prs,issues,contribs&show_icons=true&locale=en&layout=compact" alt="jakepears" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakepears&show_icons=true&locale=en" alt="jakepears" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakepears&hide=rank&show_icons=true&locale=en" alt="jakepears" /></p>
