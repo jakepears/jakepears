@@ -3,7 +3,7 @@
 
 - 🔭 To check out more of my work go to my portfolio site! -> [jpearson.art](https://jpearson.art)
 
-- 🌱 I’m currently learning **blender - redshift**
+- 🌱 I’m currently learning **blender - octane**
 
 - 👯 I’m looking to collaborate on some projects. **Reach out!**
 
